@@ -1,0 +1,58 @@
+﻿/* Add a black background color to the top navigation */
+.topnav 
+{
+	overflow: hidden;
+	width: 100%;
+	background-color: rgba(62,216,209); 
+}
+
+/* Style the links inside the navigation bar */
+.topnav a 
+{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(bg.jpg) no-repeat;
+    background-size: cover;
+
+.login-box
+{
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.login-box h1
+{
+    float: left;
+    font-size: 40px;
+    border-bottom: 6px solid #1aa6bf;
+    margin-bottom: 50px;
+    padding: 13px 0;
+}
+.textbox 
+{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid;
+}
+mySlides {
+    width: 100%;
+    height: auto;
+}
+
